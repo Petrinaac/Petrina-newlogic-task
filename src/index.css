@@ -1,0 +1,64 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+body {
+  background-color: #fbfafb;
+}
+
+.wrapper {
+  position: relative;
+  margin: 60px 0px;
+  padding: 0 5px;
+}
+
+.content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.box {
+  height: 550px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order {
+  background-color: #fff;
+}
+
+.btn {
+  background-color: #3b82f6;
+  padding: 15px 25px;
+  color: #fff;
+}
+
+.invoice {
+  width: 976px;
+}
+
+table th {
+  padding: 20px;
+}
+
+table td {
+  padding: 25px;
+}
+
+.user {
+  background-color: #fff;
+  width: 976px;
+}

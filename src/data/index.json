@@ -1,0 +1,140 @@
+{
+  "orders": [
+    {
+      "number": "2200245834",
+      "date": "6. 12. 2022",
+      "price": "1 500 Kč"
+    },
+    {
+      "number": "2200245834",
+      "date": "6. 12. 2022",
+      "price": "1 500 Kč"
+    },
+    {
+      "number": "2200245834",
+      "date": "6. 12. 2022",
+      "price": "1 500 Kč"
+    }
+  ],
+  "invoices": [
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    },
+    {
+      "inv": "121548784515487",
+      "order": "121548784515487",
+      "price": "1500 Kč"
+    }
+  ],
+  "inputs": [
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Jméno",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Příjmení",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "E-mail",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Telefon",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    }
+  ],
+  "inputs2": [
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Název firmy",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Ulice",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Město",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "PSČ",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "IČ",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "DIČ",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Jméno",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Příjmení",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "Telefon",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    },
+    {
+      "inputClass": "peer w-full h-full bg-[#f3f4f6] text-gray-700 font-sans font-normal outline-none transition-all placeholder-transparent border rounded-md px-3 py-2.5 focus:border-gray-900",
+      "label": "E-mail",
+      "labelClass": "absolute left-3 top-2.5 text-gray-500 transition-all text-sm peer-placeholder-shown:top-2.5 peer-placeholder-shown:text-sm peer-focus:-top-2 peer-focus:text-xs peer-focus:text-gray-900"
+    }
+  ]
+}
